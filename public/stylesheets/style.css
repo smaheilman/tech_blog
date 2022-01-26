@@ -53,5 +53,11 @@ h3{
 }
 
 footer{
-    margin-bottom: 0px;
+    margin-top: 100%;
+}
+
+.editPost{
+    width: 250px;
+    height: 100px;
+    padding: 10px;
 }
