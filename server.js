@@ -9,6 +9,7 @@ const path = require('path');
 const session = require('express-session');
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 const exphbs = require('express-handlebars');
+console.log(SequelizeStore);
 
 //MIGHT USE THESE LATER
 // // npm i handlebars, npm i express-handlebars
